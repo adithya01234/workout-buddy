@@ -1,0 +1,18 @@
+.workout-details {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  padding: 1.5rem;
+  margin: 1rem 0;
+  transition: box-shadow 0.2s;
+}
+
+.workout-details h4 {
+  margin-bottom: 0.5rem;
+  color: #2e7d32;
+}
+
+.workout-details p {
+  margin: 0.3rem 0;
+  font-size: 1rem;
+}
